@@ -33,7 +33,7 @@ public class CamScript : MonoBehaviour
     private int fileCounter = 0;
 
 
-    public string save_path_file_name = "C:/Users/Nic_C/Documents/MDP Image Recognition/UnityImagesToTrain2";
+    public string save_path_file_name = "";
     private string googleDrivePath = "/content/drive/MyDrive/CZ3004_MDP_Group_29/UnityImagesToTrain";
 
     private Camera cam;
